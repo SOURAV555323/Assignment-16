@@ -1,0 +1,171 @@
+
+
+/*===================================
+===>>> header section  start <<<===*/
+.header{
+    background-color: #101446;
+    padding: 10px 0;
+}
+.header .header_logo{
+    text-align: left;
+}
+.header .header_logo img{
+    height: 45px;
+}
+.header .header_menu{}
+.header .header_menu ul{
+    margin-bottom: 0;
+    list-style: none;
+    text-align: right;
+}
+.header .header_menu ul li{
+    display: inline-block;
+    margin-left: -4px;
+}
+.header .header_menu ul li a{
+    display: inline-block;
+    padding: 0 20px;
+    text-decoration: none;
+    color: white;
+    text-transform: capitalize;
+    line-height: 40px;
+}
+/*===>>> header section end <<<===
+================================*/
+
+/*==================================
+===>>> banner section start <<<===*/
+.banner {
+	background-image: url("https://i.ibb.co/28Kc2zV/intro-bg.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+	padding: 315px 0;
+}
+.banner .banner_text{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+.banner .banner_text h2{
+    color: white;
+    margin-bottom: 20px;
+    font-size: 30px;
+    font-weight: 600;
+}
+.banner .banner_text p{
+    color: white;
+    margin-bottom: 35px;
+}
+.banner .banner_text button{
+    background-color: #337ab7;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+}
+/*===>>> banner section end <<<===
+================================*/
+
+/*=======================================
+===>>> testimonial section start <<<===*/
+.testimonial{
+    background-color: #bac1f3;
+    padding: 40px 0;
+}
+.testimonial h1{
+    text-align: center;
+    color: black;
+    text-transform: capitalize;
+    font-size: 50px;
+    font-weight: 600;
+    padding: 15px;
+    margin-bottom: 35px;
+}
+.testimonial .team{
+    text-align: center;
+    margin-left: 50px;
+}
+.testimonial .team img{
+    height: 200px;
+    margin-bottom: 10px;
+}
+.testimonial .team h4{
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+.testimonial .team p{
+    margin-bottom: 10px;
+}
+.testimonial .team button{
+    color: white;
+    background-color: #337ab7;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+/*===>>> testimonial section end <<<===
+=====================================*/
+.about{
+    background-color: #c2d4ea;
+    padding: 40px 0;
+}
+.about h1{
+    text-align: center;
+    color: black;
+    text-transform: capitalize;
+    font-size: 50px;
+    font-weight: 600;
+    padding: 15px;
+    margin-bottom: 35px;
+}
+.about h6{
+    line-height: 25px;
+    font-weight: 500;
+}
+.about img{
+    margin-bottom: 15px;
+}
+.about .about_title{
+    margin-top: 15px;
+}
+.about .about_title h3{
+    text-transform: capitalize;
+    font-weight: 500;
+}
+/*===>>> about section end <<<===
+===============================*/
+
+/*====================================
+===>>> contact section  start <<<===*/
+.contact{
+    background-color: #f5f5f5;
+    padding: 40px;
+}.contact h1{
+    text-align: center;
+    color: black;
+    text-transform: capitalize;
+    font-size: 50px;
+    font-weight: 600;
+    padding: 15px;
+    margin-bottom: 35px;
+}
+/*===>>> contact section end <<<===
+=================================*/
+
+/*===================================
+===>>> footer section  start <<<===*/
+.footer{
+    background-color: #0062d3;
+    padding: 20px 0;
+    text-align: center;
+    color: white
+}
+.footer p{
+    margin-bottom: 0;
+}
+.footer p span{
+    font-weight: 700;
+}
+/*===>>> footer section end <<<===
+================================*/
